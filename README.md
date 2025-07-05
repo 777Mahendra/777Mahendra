@@ -6,13 +6,7 @@
 
 ---
 
-### 👨‍💻 About Me
-- 💻 Passionate about tech, code & learning  
-- 🧠 Constantly building & experimenting  
-- 🌍 Based on Earth  
-- 🚀 Open for collaboration & creative ideas
 
----
 
 ### 📊 GitHub Stats
 
