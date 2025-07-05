@@ -17,6 +17,4 @@
 
 ---
 
-### 🌐 Connect With Me
-- 🔗 [Your Website](https://yourwebsite.com)
-- 📬 Reach out, let’s make something cool together!
+#
