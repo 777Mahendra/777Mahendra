@@ -1,27 +1,28 @@
 <h1 align="center">Hello, There 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashishlamsal&label=Profile%20views&color=0e75b6&style=flat" alt="ashishlamsal" />
-</p>
-
-<p align="center">
-  <a href="https://ashishlamsal.com.np/">🌐 Personal Website</a> •
-  <a href="https://github.com/ashishlamsal">GitHub</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Welcome+to+Mahendra's+GitHub!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 Computer Engineer at IOE, Pulchowk Campus  
-- 📍 Based in Lalitpur, Nepal  
-- ⏱️ Timezone: UTC +5:45
+### 👨‍💻 About Me
+- 💻 Passionate about tech, code & learning  
+- 🧠 Constantly building & experimenting  
+- 🌍 Based on Earth  
+- 🚀 Open for collaboration & creative ideas
 
 ---
 
 ### 📊 GitHub Stats
 
-<!-- GitHub stats cards (can hit API limit!) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishlamsal&show_icons=true&theme=dark" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishlamsal&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=777Mahendra&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=777Mahendra&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+---
+
+### 🌐 Connect With Me
+- 🔗 [Your Website](https://yourwebsite.com)
+- 📬 Reach out, let’s make something cool together!
